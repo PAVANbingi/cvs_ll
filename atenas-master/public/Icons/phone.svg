@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" id="phone">
+  <g color="#000">
+    <path fill="#50b748" d="M12 1028.362c-6.626 0-12 5.374-12 12s5.374 12 12 12 12-5.374 12-12-5.374-12-12-12z" font-family="sans-serif" font-weight="400" overflow="visible" style="line-height:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;block-progression:tb;white-space:normal;isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" transform="translate(0 -1028.362)"></path>
+    <path fill="#fff" d="M8.516 1034.678a1.08 1.08 0 0 0-1.531.02c-2.085 2.085-.57 6.407 1.856 8.834 2.25 2.25 6.706 3.984 8.834 1.857.43-.43.433-1.119.014-1.537l-1.502-1.503a1.08 1.08 0 0 0-1.531.02l-.776.776c-.429.43-1.12.43-1.55 0l-3.101-3.102c-.43-.429-.43-1.12 0-1.55l.775-.775c.43-.43.433-1.118.014-1.537z" overflow="visible" style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" transform="translate(0 -1028.362)"></path>
+  </g>
+</svg>
